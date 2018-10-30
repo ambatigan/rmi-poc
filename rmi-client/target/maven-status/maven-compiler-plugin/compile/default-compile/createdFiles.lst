@@ -1,5 +1,0 @@
-com\rmi\SearchQuery.class
-com\rmi\Search.class
-com\rmi\SearchServer.class
-com\rmi\ClientRequest.class
-com\rmi\MyRMISocketFactory.class
